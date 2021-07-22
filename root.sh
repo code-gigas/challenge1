@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "KHC CTF V1.1"
 sleep 1
-echo "Key Formate(KHC{***_***_***})"
+echo "Key Formate = KHC{***_***_***}"
 
 read -p "Enter Your Key: " key
 
