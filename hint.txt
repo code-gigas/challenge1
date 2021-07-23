@@ -1,5 +1,3 @@
 hello
-Hint 1 =>
-Decode base64 
-Hint 2 => 
--a
+Hint 1 =>  -a  
+Hint 2 =>  Decode base64 
